@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00402A96
+eax=0050B28D ebx=00066A5C ecx=004A4270 edx=00000068 esi=61243AFC edi=00000000
+ebp=0022CD38 esp=0022CC80 program=C:\Users\AP4.PC29\Desktop\Practica_3\Practica3-2\dist\Debug\Cygwin_4.x-Windows\practica3-2.exe, pid 1940, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CD38  00402A96  (00000003, 61243BAC, 019400F8, 61004BB9)
+0022CD68  61007038  (00000000, 0022CDA4, 61006980, 7FFD9000)
+End of stack trace
